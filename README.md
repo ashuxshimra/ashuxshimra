@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/ashuxshimra/ashuxshimra/blob/main/banner.png)
-- 🔭 I’m currently working on **De-Fi staking app , i-Notebook full stack app (React)**
+- 🔭 I’m currently working on **Javascript ,ReactJS**
 
 - 🌱 I’m currently learning **Solidity -Building Smart Contracts , React.JS**
 
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Web-3 , Blockchain Development , NFT MarketPlace , React.js.**
 
-- 📫 How to reach me **gsasha220@gmail.com**
+- 📫 How to reach me **ashutoshmishrassj26@gmail.com**
 
 - ⚡ Fun fact **Our kindness and humour makes more sense than our code !**
 
